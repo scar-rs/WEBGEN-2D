@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "firebase": "^10.9.0",
+    "noisejs": "^2.1.0",
+    "perlin-noise": "^0.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0",
+    "sass-loader": "^14.1.1"
+  }
+}
